@@ -122,10 +122,10 @@ Relationships:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YousefSGhanem/LibraryManagementSystem.git
+   git clone https://github.com/<user>/LibraryManagementSystem.git
    cd LibraryManagementSystem
    ```
-2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem-main/University-java-project/docs/mysql_tables.txt)).
+2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem/University-java-project/docs/mysql_tables.txt)).
 3. Open the project in NetBeans and build the project.
 4. Set your JDBC connection details (username, password, DB name) in the code.
 5. Start the program → Login as Admin.
@@ -145,12 +145,21 @@ Relationships:
 
 A visual poster with all core features and a project overview is available in this repository:
 
-* [Poster (PDF)](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
+* [Poster (PDF)](LibraryManagementSystem/University-java-project/docs/Poster.pdf)
 
 ### Preview
 
 ![Library Management System Poster](LibraryManagementSystem/University-java-project/docs/Poster.png)
 
+---
+
+## Future Work
+
+* Email notifications (e.g. for due dates)
+* Multi-language support (i18n)
+* Responsive design / Web frontend
+* Notification system for new books
+* Advanced search & filters (ISBN, subject area)
 
 ---
 
@@ -165,8 +174,3 @@ A visual poster with all core features and a project overview is available in th
 ## License
 
 This project is a university learning project and is intended for demonstration purposes only.
-
-
-
-
-
