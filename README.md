@@ -145,11 +145,11 @@ Relationships:
 
 A visual poster with all core features and a project overview is available in this repository:
 
-* [Poster (PDF)](LibraryManagementSystem/University-java-project/docs/Poster.pdf)
+* [Poster (PDF)](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
 
 ### Preview
 
-![Library Management System Poster](LibraryManagementSystem/University-java-project/docs/Poster.png)
+![Library Management System Poster](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
 
 ---
 
