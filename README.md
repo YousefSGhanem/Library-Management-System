@@ -147,6 +147,11 @@ A visual poster with all core features and a project overview is available in th
 
 * [Poster (PDF)](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
 
+### Preview
+
+![Library Management System Poster](LibraryManagementSystem/University-java-project/docs/Poster.png)
+
+
 ---
 
 ## Team & Project Management
@@ -160,3 +165,8 @@ A visual poster with all core features and a project overview is available in th
 ## License
 
 This project is a university learning project and is intended for demonstration purposes only.
+
+
+
+
+
