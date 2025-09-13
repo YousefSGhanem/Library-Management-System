@@ -122,7 +122,7 @@ Relationships:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<user>/LibraryManagementSystem.git
+   git clone https://github.com/YousefSGhanem/LibraryManagementSystem.git
    cd LibraryManagementSystem
    ```
 2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem-main/University-java-project/docs/mysql_tables.txt)).
