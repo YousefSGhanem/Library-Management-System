@@ -125,7 +125,7 @@ Relationships:
    git clone https://github.com/<user>/LibraryManagementSystem.git
    cd LibraryManagementSystem
    ```
-2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem/University-java-project/docs/mysql_tables.txt)).
+2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem-main/University-java-project/docs/mysql_tables.txt)).
 3. Open the project in NetBeans and build the project.
 4. Set your JDBC connection details (username, password, DB name) in the code.
 5. Start the program → Login as Admin.
