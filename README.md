@@ -122,7 +122,7 @@ Relationships:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<user>/LibraryManagementSystem.git
+   git clone https://github.com/YousefSGhanem/LibraryManagementSystem.git
    cd LibraryManagementSystem
    ```
 2. Create a MySQL database and set up the required tables (see [mysql\_tables.txt](LibraryManagementSystem-main/University-java-project/docs/mysql_tables.txt)).
@@ -146,20 +146,6 @@ Relationships:
 A visual poster with all core features and a project overview is available in this repository:
 
 * [Poster (PDF)](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
-
-### Preview
-
-![Library Management System Poster](LibraryManagementSystem-main/University-java-project/docs/Poster.pdf)
-
----
-
-## Future Work
-
-* Email notifications (e.g. for due dates)
-* Multi-language support (i18n)
-* Responsive design / Web frontend
-* Notification system for new books
-* Advanced search & filters (ISBN, subject area)
 
 ---
 
